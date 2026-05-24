@@ -21,6 +21,11 @@ No top bar. Just vibes.
 quickshell -c ~/.config/quickshell/SavioR
 ```
 
+## Preview
+Dock:
+![Dock hidden](screenshots/20260524161834.png)
+![Dock revealed](screenshots/20260524161847.png)
+
 ## Note
 This is a personal project built around my own preferences.
 Settings for customization by other users may come later — or not. We'll see.
