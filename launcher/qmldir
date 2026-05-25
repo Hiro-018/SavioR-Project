@@ -1,0 +1,4 @@
+module launcher
+Launcher 1.0 Launcher.qml
+TriggerButton 1.0 TriggerButton.qml
+TileGrid 1.0 TileGrid.qml
