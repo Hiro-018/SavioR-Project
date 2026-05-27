@@ -23,8 +23,14 @@ quickshell -c ~/.config/quickshell/SavioR
 
 ## Preview
 Dock:
+Dock:
 ![Dock hidden](screenshots/20260524161834.png)
 ![Dock revealed](screenshots/20260524161847.png)
+Launcher (still missing a lot of things):
+![Launcher revealed](screenshots/Launcher.png)
+MediaPlayer(nothing works, imma fix it later):
+![Launcher revealed](screenshots/media.png)
+
 
 ## Note
 This is a personal project built around my own preferences.
