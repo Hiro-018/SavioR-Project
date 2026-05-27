@@ -1,0 +1,5 @@
+module mediaplayer
+MusicPlayer 1.0 MusicPlayer.qml
+Disc 1.0 Disc.qml
+Controls 1.0 Controls.qml
+PlayerTrigger 1.0 PlayerTrigger.qml
